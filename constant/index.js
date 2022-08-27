@@ -1,4 +1,4 @@
-METADATA_URL = "https://nft-collection-sneh1999.vercel.app/api/";
+METADATA_URL = "https://cxo-nft-collection.vercel.app/api/";
 
 // Address of the whitelist contract that i deployed @
 // https://github.com/Chiadikaobixo/my-solidity/tree/master/whitelist
