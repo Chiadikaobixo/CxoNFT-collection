@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+## 2. CxoNFT-collection
+Owner of CxoNFT deploys deploys the contract.   
+Owner of the deployed contract starts the presale.   
+Whitelisted addresses have access to presale mint.   
+Any address has access to the public mint once presale has ended.     
+Owner of the deployed contract can withdraw from the contract.   
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+[Mint CxoNFT](https://cxo-nft-collection.vercel.app "CxNFT")   
+[View CxoNFT Collection on Opensea](https://testnets.opensea.io/collection/cxonft-v2 "CxNFT")   
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[Deployed contract on Rinkeby Etherscan.](https://rinkeby.etherscan.io/address/0x664E672487B1067492B101d2179864acAE02a991 "CxoNFT-collection")    
