@@ -1,4 +1,6 @@
-## 2. CxoNFT-collection
+## CxoNFT-collection
+This is a collection of 30 unique CXO Non-Fungible Token whereby users can be only able to mint only 1 NFT per transaction and [Whitelisted](https://github.com/Chiadikaobixo/my-solidity/tree/master/whitelist "whitelist") users should be able to have 10 minutes presale before the actual sale where they can mint 1 NFT per transaction.
+
 Owner of CxoNFT deploys deploys the contract.   
 Owner of the deployed contract starts the presale.   
 Whitelisted addresses have access to presale mint.   
