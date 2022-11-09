@@ -10,4 +10,4 @@ Owner of the deployed contract can withdraw from the contract.
 [Mint CxoNFT](https://cxo-nft-collection.vercel.app "CxNFT")   
 [View CxoNFT Collection on Opensea](https://testnets.opensea.io/collection/cxonft-v2 "CxNFT")   
 
-[Deployed contract on Rinkeby Etherscan.](https://rinkeby.etherscan.io/address/0x664E672487B1067492B101d2179864acAE02a991 "CxoNFT-collection")    
+[Deployed contract on Rinkeby Etherscan.](https://goerli.etherscan.io/address/0x71F202923383B02c98C48618Dd3f18Df97A283df "CxoNFT-collection")    
